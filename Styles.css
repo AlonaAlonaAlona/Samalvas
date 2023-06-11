@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(228, 241, 245);
+    font-size: 16pxs;
+    font-weight: 300;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.barcelona{
+    width: 200px;
+    border-radius: 50%;
+    box-shadow: 20px -11px 14px rgb(1 1 1 / 44%)
+}
+
+.Dresden{
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 20px -13px 0px rgb(0, 255, 13)
+}
+
+.berlin{
+    width: 200px;
+    border-radius: 28px;
+    box-shadow: 20px -15px 0px rgb(245, 107, 204)
+}
